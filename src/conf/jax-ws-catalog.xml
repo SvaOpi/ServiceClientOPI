@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://juan-pc:8080/PersonWS/PersonWS?wsdl" uri="wsdl/juan-pc_8080/PersonWS/PersonWS.wsdl"/>
+    <system systemId="http://juan-pc:8080/PersonWS/PersonWS?xsd=1" uri="wsdl/juan-pc_8080/PersonWS/PersonWS.xsd_1.xsd"/>
+</catalog>
